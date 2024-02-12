@@ -5,7 +5,7 @@ A tiny Autograd engine (with a neural net example) in < 100 lines of Python. Thi
 
 ## Components:
 
-* Autograd Engine: The heart of TinyGrad, a tiny yet powerful Autograd engine, facilitates reverse-mode autodiff through a dynamically constructed DAG.
+* Autograd Engine: The heart of micrograd, a tiny yet powerful Autograd engine, facilitates reverse-mode autodiff through a dynamically constructed DAG.
 
 * Neural Networks Library: A small neural networks library built on top of the Autograd engine. It includes modules for creating layers, neurons, and multi-layer perceptrons (MLPs) with ease.
 
